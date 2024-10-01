@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual Studio\\PROJECT\\PR5.3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3430F0F-2BAA-4630-AEBD-AE42B4776CC0}|UnitTest1\\UnitTest1.vcxproj|D:\\Visual Studio\\PROJECT\\PR5.3\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F3430F0F-2BAA-4630-AEBD-AE42B4776CC0}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6E5DD3-F415-4344-B2B6-FD9F2ADB8E40}|PR5.3.vcxproj|D:\\Visual Studio\\PROJECT\\PR5.3\\PR5.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5E6E5DD3-F415-4344-B2B6-FD9F2ADB8E40}|PR5.3.vcxproj|solutionrelative:PR5.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 264,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "D:\\Visual Studio\\PROJECT\\PR5.3\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "D:\\Visual Studio\\PROJECT\\PR5.3\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-01T14:56:30.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PR5.3.cpp",
+              "DocumentMoniker": "D:\\Visual Studio\\PROJECT\\PR5.3\\PR5.3.cpp",
+              "RelativeDocumentMoniker": "PR5.3.cpp",
+              "ToolTip": "D:\\Visual Studio\\PROJECT\\PR5.3\\PR5.3.cpp",
+              "RelativeToolTip": "PR5.3.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-01T07:41:10.857Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
